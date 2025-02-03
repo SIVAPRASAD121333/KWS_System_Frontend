@@ -1,6 +1,6 @@
 # Main Commands
 
-cd Frontend
+cd KWS_System_Frontend
 
 npm install
 
