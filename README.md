@@ -1,3 +1,12 @@
+#Main Commands
+cd Frontend
+npm install
+npm run build
+serve –s build
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
